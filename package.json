@@ -26,5 +26,8 @@
   "homepage": "https://github.com/brockers/2017-OK-Coders-Day-1#readme",
   "dependencies": {
     "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   }
 }
